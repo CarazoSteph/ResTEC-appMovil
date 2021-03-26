@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "92i4vgkAns0rvK0TVw+buRN09i3ZWauKP8YhBqXzdrK4b67d9RuXxd9Ki49V5VWTdQvBr++rcEf2CWpyC7+gpQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Stephanie\\RiderProjects\\ResTEC-appMovil\\ResTEC-appMovil\\ResTEC-appMovil\\ResTEC-appMovil.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Stephanie\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Stephanie\\.nuget\\packages\\netstandard.library\\2.0.1\\netstandard.library.2.0.1.nupkg.sha512",
+    "C:\\Users\\Stephanie\\.nuget\\packages\\xamarin.forms\\4.4.0.991640\\xamarin.forms.4.4.0.991640.nupkg.sha512"
+  ],
+  "logs": []
+}

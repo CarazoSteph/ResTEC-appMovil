@@ -1,0 +1,12 @@
+C:\Users\Stephanie\RiderProjects\ResTEC-appMovil\ResTEC-appMovil\ResTEC-appMovil\bin\Debug\netstandard2.0\ResTEC-appMovil.deps.json
+C:\Users\Stephanie\RiderProjects\ResTEC-appMovil\ResTEC-appMovil\ResTEC-appMovil\bin\Debug\netstandard2.0\ResTEC-appMovil.dll
+C:\Users\Stephanie\RiderProjects\ResTEC-appMovil\ResTEC-appMovil\ResTEC-appMovil\bin\Debug\netstandard2.0\ResTEC-appMovil.pdb
+C:\Users\Stephanie\RiderProjects\ResTEC-appMovil\ResTEC-appMovil\ResTEC-appMovil\obj\Debug\netstandard2.0\ResTEC-appMovil.csprojAssemblyReference.cache
+C:\Users\Stephanie\RiderProjects\ResTEC-appMovil\ResTEC-appMovil\ResTEC-appMovil\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Stephanie\RiderProjects\ResTEC-appMovil\ResTEC-appMovil\ResTEC-appMovil\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Stephanie\RiderProjects\ResTEC-appMovil\ResTEC-appMovil\ResTEC-appMovil\obj\Debug\netstandard2.0\ResTEC-appMovil.csproj.CoreCompileInputs.cache
+C:\Users\Stephanie\RiderProjects\ResTEC-appMovil\ResTEC-appMovil\ResTEC-appMovil\obj\Debug\netstandard2.0\ResTEC-appMovil.AssemblyInfoInputs.cache
+C:\Users\Stephanie\RiderProjects\ResTEC-appMovil\ResTEC-appMovil\ResTEC-appMovil\obj\Debug\netstandard2.0\ResTEC-appMovil.AssemblyInfo.cs
+C:\Users\Stephanie\RiderProjects\ResTEC-appMovil\ResTEC-appMovil\ResTEC-appMovil\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Stephanie\RiderProjects\ResTEC-appMovil\ResTEC-appMovil\ResTEC-appMovil\obj\Debug\netstandard2.0\ResTEC-appMovil.dll
+C:\Users\Stephanie\RiderProjects\ResTEC-appMovil\ResTEC-appMovil\ResTEC-appMovil\obj\Debug\netstandard2.0\ResTEC-appMovil.pdb

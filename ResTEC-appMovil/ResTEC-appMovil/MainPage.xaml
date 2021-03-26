@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:ResTEC_appMovil"
+             x:Class="ResTEC_appMovil.MainPage">
+
+    <StackLayout>
+           
+           
+           <Label Text="ResTEC" 
+                  HorizontalOptions="Center"
+                  VerticalOptions="CenterAndExpand" />
+           
+           <Entry Placeholder="username"
+                  HorizontalOptions="Start"
+                  VerticalOptions="Center"/>
+           
+           <Label Text="Username" 
+                  HorizontalOptions="Start"
+                  VerticalOptions="Center" />
+           
+           <Entry IsPassword="true"
+                  Placeholder="Password"
+                  HorizontalOptions="Start"
+                  VerticalOptions="Center" />
+           
+           <Label Text="Password" 
+                  HorizontalOptions="Start"
+                  VerticalOptions="Center" />
+           
+           <!-- this button work -->
+           <Button x:Name="PressMeButton"
+                   Text="LOG IN"
+                   Clicked="PressMeButton_Clicked"
+                   HorizontalOptions="Start"
+                   VerticalOptions="Center"/>
+           
+           <!-- i added this to binding button text 
+           <Button Text="{Binding modelUpdateCount, StringFormat='Number of updates to the model: {0:D}'}"
+                   Command="{Binding IncrementLabelCommand}" />-->
+           
+           <Label Text="ⓒ Created by Jose Adrian and Stephanie" 
+                  HorizontalOptions="Center"
+                  VerticalOptions="CenterAndExpand" />
+        
+    </StackLayout>
+
+</ContentPage>
