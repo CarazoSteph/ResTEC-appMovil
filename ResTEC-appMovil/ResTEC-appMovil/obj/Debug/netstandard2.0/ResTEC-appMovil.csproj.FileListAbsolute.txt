@@ -10,3 +10,4 @@ C:\Users\Stephanie\RiderProjects\ResTEC-appMovil\ResTEC-appMovil\ResTEC-appMovil
 C:\Users\Stephanie\RiderProjects\ResTEC-appMovil\ResTEC-appMovil\ResTEC-appMovil\obj\Debug\netstandard2.0\XamlC.stamp
 C:\Users\Stephanie\RiderProjects\ResTEC-appMovil\ResTEC-appMovil\ResTEC-appMovil\obj\Debug\netstandard2.0\ResTEC-appMovil.dll
 C:\Users\Stephanie\RiderProjects\ResTEC-appMovil\ResTEC-appMovil\ResTEC-appMovil\obj\Debug\netstandard2.0\ResTEC-appMovil.pdb
+C:\Users\Stephanie\RiderProjects\ResTEC-appMovil\ResTEC-appMovil\ResTEC-appMovil\obj\Debug\netstandard2.0\Page2.xaml.g.cs
